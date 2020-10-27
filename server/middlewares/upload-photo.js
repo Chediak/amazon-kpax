@@ -15,7 +15,7 @@ const upload = multer({
         bucket: "template-ecommerce",
         acl: "public-read",
         metadata: (req, file, cb) => {
-            cb(null, { fieldName: file.fieldname });
+            cb(null, { fieldName: file.fieldname });            
         },
         key: (req, file, cb) => {
             cb(null, Date.now().toString());
