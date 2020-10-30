@@ -33,9 +33,11 @@ router.post("/addresses", verifyToken, async (req, res) =>{
 router.get('/addresses', verifyToken, async (req, res) => {
     try {
         let addresses = await Address.find({ users: req.decoded._id });
+
+        res.json({
             success: true,
             addresses: addresses
-
+        });
     } catch (err) {
                 res.status(500).json({
             success: false,

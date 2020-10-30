@@ -41,7 +41,7 @@ const categoryRoutes = require('./routes/category');
 const ownerRoutes = require('./routes/owner');
 const userRoutes = require("./routes/auth");
 const reviewRoutes = require('./routes/review');
-const addressRoutes require('./routes/address');
+const addressRoutes = require('./routes/address');
 
 app.use('/api', productRoutes);
 app.use('/api', categoryRoutes);
