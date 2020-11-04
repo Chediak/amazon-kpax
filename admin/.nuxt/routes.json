@@ -1,0 +1,44 @@
+[
+  {
+    "name": "about",
+    "path": "/about",
+    "component": "C:\\\\dev\\\\web-dev\\\\amazon\\\\admin\\\\pages\\\\about.vue",
+    "chunkName": "pages/about"
+  },
+  {
+    "name": "category",
+    "path": "/category",
+    "component": "C:\\\\dev\\\\web-dev\\\\amazon\\\\admin\\\\pages\\\\category.vue",
+    "chunkName": "pages/category"
+  },
+  {
+    "name": "owner",
+    "path": "/owner",
+    "component": "C:\\\\dev\\\\web-dev\\\\amazon\\\\admin\\\\pages\\\\owner.vue",
+    "chunkName": "pages/owner"
+  },
+  {
+    "name": "product",
+    "path": "/product",
+    "component": "C:\\\\dev\\\\web-dev\\\\amazon\\\\admin\\\\pages\\\\product.vue",
+    "chunkName": "pages/product"
+  },
+  {
+    "name": "products",
+    "path": "/products",
+    "component": "C:\\\\dev\\\\web-dev\\\\amazon\\\\admin\\\\pages\\\\products\\\\index.vue",
+    "chunkName": "pages/products/index"
+  },
+  {
+    "name": "products-id",
+    "path": "/products/:id",
+    "component": "C:\\\\dev\\\\web-dev\\\\amazon\\\\admin\\\\pages\\\\products\\\\_id.vue",
+    "chunkName": "pages/products/_id"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\dev\\\\web-dev\\\\amazon\\\\admin\\\\pages\\\\index.vue",
+    "chunkName": "pages/index"
+  }
+]

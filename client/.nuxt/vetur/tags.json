@@ -1,0 +1,32 @@
+{
+  "FeaturedProduct": {
+    "description": "Auto imported from components/FeaturedProduct.vue"
+  },
+  "LazyFeaturedProduct": {
+    "description": "Auto imported from components/FeaturedProduct.vue"
+  },
+  "Footer": {
+    "description": "Auto imported from components/Footer.vue"
+  },
+  "LazyFooter": {
+    "description": "Auto imported from components/Footer.vue"
+  },
+  "Logo": {
+    "description": "Auto imported from components/Logo.vue"
+  },
+  "LazyLogo": {
+    "description": "Auto imported from components/Logo.vue"
+  },
+  "Navbar": {
+    "description": "Auto imported from components/Navbar.vue"
+  },
+  "LazyNavbar": {
+    "description": "Auto imported from components/Navbar.vue"
+  },
+  "Search": {
+    "description": "Auto imported from components/Search.vue"
+  },
+  "LazySearch": {
+    "description": "Auto imported from components/Search.vue"
+  }
+}

@@ -1,0 +1,68 @@
+[
+  {
+    "name": "address",
+    "path": "/address",
+    "component": "C:\\\\dev\\\\web-dev\\\\amazon\\\\client\\\\pages\\\\address\\\\index.vue",
+    "chunkName": "pages/address/index"
+  },
+  {
+    "name": "cart",
+    "path": "/cart",
+    "component": "C:\\\\dev\\\\web-dev\\\\amazon\\\\client\\\\pages\\\\cart.vue",
+    "chunkName": "pages/cart"
+  },
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "C:\\\\dev\\\\web-dev\\\\amazon\\\\client\\\\pages\\\\login.vue",
+    "chunkName": "pages/login"
+  },
+  {
+    "name": "payment",
+    "path": "/payment",
+    "component": "C:\\\\dev\\\\web-dev\\\\amazon\\\\client\\\\pages\\\\payment.vue",
+    "chunkName": "pages/payment"
+  },
+  {
+    "name": "placeorder",
+    "path": "/placeorder",
+    "component": "C:\\\\dev\\\\web-dev\\\\amazon\\\\client\\\\pages\\\\placeorder.vue",
+    "chunkName": "pages/placeorder"
+  },
+  {
+    "name": "profile",
+    "path": "/profile",
+    "component": "C:\\\\dev\\\\web-dev\\\\amazon\\\\client\\\\pages\\\\profile.vue",
+    "chunkName": "pages/profile"
+  },
+  {
+    "name": "signup",
+    "path": "/signup",
+    "component": "C:\\\\dev\\\\web-dev\\\\amazon\\\\client\\\\pages\\\\signup.vue",
+    "chunkName": "pages/signup"
+  },
+  {
+    "name": "address-add",
+    "path": "/address/add",
+    "component": "C:\\\\dev\\\\web-dev\\\\amazon\\\\client\\\\pages\\\\address\\\\add.vue",
+    "chunkName": "pages/address/add"
+  },
+  {
+    "name": "products-id",
+    "path": "/products/:id?",
+    "component": "C:\\\\dev\\\\web-dev\\\\amazon\\\\client\\\\pages\\\\products\\\\_id.vue",
+    "chunkName": "pages/products/_id"
+  },
+  {
+    "name": "reviews-id",
+    "path": "/reviews/:id?",
+    "component": "C:\\\\dev\\\\web-dev\\\\amazon\\\\client\\\\pages\\\\reviews\\\\_id.vue",
+    "chunkName": "pages/reviews/_id"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\dev\\\\web-dev\\\\amazon\\\\client\\\\pages\\\\index.vue",
+    "chunkName": "pages/index"
+  }
+]
